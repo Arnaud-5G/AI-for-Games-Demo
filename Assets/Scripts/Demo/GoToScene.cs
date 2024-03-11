@@ -18,4 +18,8 @@ public class GoToScene : MonoBehaviour {
     public void GoToSeek() {
         SceneManager.LoadScene("Seek Scene");
     }
+
+    public void GoToArrive() {
+        SceneManager.LoadScene("Arrive Scene");
+    }
 }

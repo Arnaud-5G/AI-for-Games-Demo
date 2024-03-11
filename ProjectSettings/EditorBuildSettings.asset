@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Chapters/Chapter 3/Seek Scene.unity
     guid: 2428914932fb0ef448421d719ad5eb00
+  - enabled: 1
+    path: Assets/Scenes/Chapters/Chapter 3/Arrive Scene.unity
+    guid: 896ee2d94dc0ba94391b775e563c38cc
   m_configObjects: {}
